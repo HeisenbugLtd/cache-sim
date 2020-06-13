@@ -1,2 +1,2 @@
-# cache-sim
-Old shit from the attic. A cache simulator. Most notable feature: It uses "goto" (one).
+# Cache Sim, a cache simulator.
+Old shit from the attic. Most notable feature: It uses "goto" (one).
