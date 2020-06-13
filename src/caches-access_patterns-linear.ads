@@ -1,7 +1,14 @@
+------------------------------------------------------------------------------
+--  Copyright (C) 2012-2020 by Heisenbug Ltd.
+--
+--  This work is free. You can redistribute it and/or modify it under the
+--  terms of the Do What The Fuck You Want To Public License, Version 2,
+--  as published by Sam Hocevar. See the LICENSE file for more details.
+--------------------------------------------------------------------------------
+pragma License (Unrestricted);
+
 --------------------------------------------------------------------------------
 --  Implements a linear (ascending order) access pattern.
---------------------------------------------------------------------------------
--- Copyright (C) 2012-2020 by Heisenbug Ltd.
 --------------------------------------------------------------------------------
 
 package Caches.Access_Patterns.Linear is
